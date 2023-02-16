@@ -6,4 +6,6 @@ project 2. a script that generates the assembly code of a C code and save it in 
 
 project 3. a script that compiles a C file and creates an executable named
 
-project 4. a C program that prints exactly 
+project 4. a C program that print 
+
+project 5. C program that prints exactly 
