@@ -1,11 +1,9 @@
-project 0. a script that runs a C file through the preprocessor and save the result into another file
+task 1.
 
-project 1. a script that compiles a C file but does not link.
+task 2.
 
-project 2. a script that generates the assembly code of a C code and save it in an output file.
+task 3.
 
-project 3. a script that compiles a C file and creates an executable named
+task 4.
 
-project 4. a C program that print 
-
-project 5. C program that prints exactly 
+task 5.
