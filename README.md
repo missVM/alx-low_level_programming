@@ -1,1 +1,2 @@
-task 14 script that copies all the HTML files from the current working directory to the parent of the working directory
+0x07. C - Even more pointers, arrays and strings
+
